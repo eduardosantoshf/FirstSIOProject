@@ -2,6 +2,9 @@
 
 This project aims to explore the concepts related with the assessment of **vulnerabilities**, and to acknowledge the risk and impact of **exploring common vulnerabilities**.
 
+## Course
+This project was developed under the [Information And Organisational Security](https://www.ua.pt/en/uc/4143) course of [University of Aveiro](https://www.ua.pt/).
+
 ## Install and run the VM
 The compressed disk volume with a **Debian 64bits linux host** can be downloaded from the following [link](https://uapt33090-my.sharepoint.com/:u:/g/personal/eduardosantoshf_ua_pt/Ee5hwD9cZTJBjJxsFVc_lB4BiZG9rkzyZ2ctxrXshZldig?e=pA1ibx).
 
