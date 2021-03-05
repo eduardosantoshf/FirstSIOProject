@@ -13,12 +13,12 @@ The compressed disk volume with a **Debian 64bits linux host** can be downloaded
 > Note: Do **not** use a **NAT** interface as it will **not allow** you to communicate with the services
 
 ## Tasks completed
-1.  Enumerate all **communication ports** available, describing their functionality.
-2.  Enumerate the **operating system**, **services available**, including versions. Describe the function of each service and **validate** if the information found is coherent (that is, it’s really a specific server with that version).
-3.  Enumerate and describe all **potential vulnerabilities** containing a [CVE Score](http://cvedetails.com) of at least **6**.
-4.  Assess if **public exploits** are able to validate the existence of the vulnerability.
-5.  Analyze the web page and describe the **vulnerabilities** found.
-6. Explore the vulnerabilities found, describing each step. In the end, describe the potential **impact of the exploitation**.
+- [x]  Enumerate all **communication ports** available, describing their functionality.
+- [x]  Enumerate the **operating system**, **services available**, including versions. Describe the function of each service and **validate** if the information found is coherent (that is, it’s really a specific server with that version).
+- [x]  Enumerate and describe all **potential vulnerabilities** containing a [CVE Score](http://cvedetails.com) of at least **6**.
+- [x]  Assess if **public exploits** are able to validate the existence of the vulnerability.
+- [x]  Analyze the web page and describe the **vulnerabilities** found.
+- [x] Explore the vulnerabilities found, describing each step. In the end, describe the potential **impact of the exploitation**.
 
 ## Tools
 During the **exploitation** of the VM, we used the following tools:
