@@ -1,4 +1,4 @@
-﻿# FirstSIOProject
+﻿# First SIO Project
 
 This project aims to explore the concepts related with the assessment of **vulnerabilities**, and to acknowledge the risk and impact of **exploring common vulnerabilities**.
 
@@ -28,6 +28,9 @@ During the **exploitation** of the VM, we used the following tools:
 * [nmap](https://github.com/nmap/nmap)
 * [sqlmap](https://github.com/sqlmapproject/sqlmap)
 * [nikto2](https://github.com/sullo/nikto)
+
+## Grade 
+This project's grade was **20** out of 20.
 
 ## Authors
 * **Eduardo Santos**: [eduardosantoshf](https://github.com/eduardosantoshf)
